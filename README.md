@@ -58,8 +58,10 @@ Os alunos que tornaram isto possível:
 
 ## Sobre a disciplina
 
-**Laboratório de Manutenção de Software** é uma disciplina da licenciatura em Engenharia Informática
-da [Universidade Lusófona](https://www.ulusofona.pt), lecionada por [Pedro Alves](https://github.com/p-alves).
+**Laboratório de Manutenção de Software** é uma disciplina
+da [licenciatura em Engenharia Informática](https://informatica.ulusofona.pt/ensino/licenciaturas/engenharia-informatica/)
+integrada no [DEISI](https://informatica.ulusofona.pt/)/[Universidade Lusófona](https://www.ulusofona.pt), idealizada e lecionada
+por [Pedro Alves](https://github.com/p-alves).
 
 ---
 
