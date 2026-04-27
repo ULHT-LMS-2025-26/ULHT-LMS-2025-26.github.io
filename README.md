@@ -17,15 +17,15 @@ Os alunos desta edição contribuíram para os seguintes projetos open-source:
 |-------------------|-------------|-------------|
 |       Askimo      | [link](https://github.com/haiphucnguyen/askimo)      | 4         |
 | OWASP ZAP | [link](https://github.com/zaproxy/zaproxy)      | 1         |
-| rustfs | [link](https://github.com/rustfs/rustfs)      | [1]         |
-| drop-project | [link](https://github.com/drop-project-edu/drop-project)      | [2]         |
-| [NOME DO PROJETO] | [link]      | [N]         |
+| rustfs | [link](https://github.com/rustfs/rustfs)      | 1         |
+| drop-project | [link](https://github.com/drop-project-edu/drop-project)      | 3         |
+| github-copilot-api-vscode | [link](https://github.com/suhaibbinyounis/github-copilot-api-vscode)      | 1         |
 
 ## Os Exploradores
 
 Os alunos que tornaram isto possível:
 
-[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | ...
+[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira](https://github.com/a22405291LourencoMadeira)
 
 (incluir aqui foto da turma)
 
@@ -41,11 +41,11 @@ Os alunos que tornaram isto possível:
 
 ## Alguns números
 
-- **[33]** issues analisados
-- **[12]** pull requests submetidos
-- **[9]** pull requests aceites
-- **[7]** projetos open-source diferentes
-- **[27]** worklogs escritos
+- **[36]** issues analisados
+- **[14]** pull requests submetidos
+- **[11]** pull requests aceites
+- **[10]** projetos open-source diferentes
+- **[31]** worklogs escritos
 - **16** estudantes
 
 ## O que disseram os alunos
@@ -55,6 +55,9 @@ Os alunos que tornaram isto possível:
 > *"Esta disciplina teve um impacto enorme na minha aprendizagem. O facto de não ser ensino tradicional, mas sim um trabalho hands-on em projetos open source reais, cativou-me imenso. Fez com que não só tivesse cada vez mais interesse em contribuir em mais projetos, como também vontade de estar presente numa aula de 5h30 todas as semanas."* — Filipe Monteiro
 
 > *"Foi uma experiência diferente, que me permitiu aprender imenso, com liberdade para desenvolver projetos open source reais. Além disso, foi uma ótima oportunidade para conhecer melhor os colegas e o professor. Apesar dos desafios e dificuldades, cada momento foi muito gratificante e tornou o aprendizado ainda mais enriquecedor."* — @AKADaniel-hub
+
+>"Noutras cadeiras aprendo a escrever código que 'funciona'. Aqui aprendi a escrever código que 'dura' — com testes, validação defensiva, e preocupação com quem vai manter isto daqui a 3 anos. É uma mudança de mindset, não só de skill." — [@a22405291LourencoMadeira](https://github.com/a22405291LourencoMadeira)
+
 
 ## Sobre a disciplina
 
