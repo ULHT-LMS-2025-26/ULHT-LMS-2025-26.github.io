@@ -24,12 +24,13 @@ Os alunos desta edição contribuíram para os seguintes projetos open-source:
 | wger | [link](https://github.com/wger-project/flutter)      | 1         |
 | Dataframe | [link](https://github.com/Kotlin/dataframe)      | 1         |
 | luanti | [link](https://github.com/luanti-org/luanti) | 1 |
+| pik | [link](https://github.com/jacek-kurlit/pik) | 1 |
 
 ## Os Exploradores
 
 Os alunos que tornaram isto possível:
 
-[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira](https://github.com/a22405291LourencoMadeira) | [Diogo Oliveira](https://github.com/0G01D-A) | [Nsimba Tamaku](https://github.com/efrahim20319) | [Rodrigo Filipe](https://github.com/rodrigo-filipe) | [Nidhi Mogatlal](https://github.com/Nidhi-M21) | [Rafael Magalhães](https://github.com/RafaelMagalhaes22407372) | [Diogo Alves](https://github.com/DiogoAlves06)
+[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira](https://github.com/a22405291LourencoMadeira) | [Diogo Oliveira](https://github.com/0G01D-A) | [Nsimba Tamaku](https://github.com/efrahim20319) | [Rodrigo Filipe](https://github.com/rodrigo-filipe) | [Nidhi Mogatlal](https://github.com/Nidhi-M21) | [Rafael Magalhães](https://github.com/RafaelMagalhaes22407372) | [Diogo Alves](https://github.com/DiogoAlves06) | [Guilherme Albuquerque](https://github.com/gui-alb)
 
 (incluir aqui foto da turma)
 
@@ -45,10 +46,10 @@ Os alunos que tornaram isto possível:
 
 ## Alguns números
 
-- **[83]** issues analisados
-- **[23]** pull requests submetidos
+- **[87]** issues analisados
+- **[25]** pull requests submetidos
 - **[16]** pull requests aceites
-- **[21]** projetos open-source diferentes
+- **[28]** projetos open-source diferentes
 - **[93]** worklogs escritos
 - **16** estudantes
 
@@ -73,6 +74,8 @@ Os alunos que tornaram isto possível:
 > *"Podemos dizer que esta cadeira está fora da caixa, tanto pelo formato, completamente diferente do que estamos habituados, como pelo trabalho que realizamos. Acho que é uma daquelas cadeiras que, mesmo depois de terminarmos o curso, vamos conseguir lembrar-nos de muitas coisas que ela nos proporcionou."* — [Diogo Alves](https://github.com/DiogoAlves06)
 
 > *"Tive medo de embarcar nesta aventura, mas em vão, pois aquilo que aprendi no âmbito desta cadeira foi extremamente valioso no que toca ao meu desenvolvimento pessoal e social, tornando-me assim, acredito eu, numa pessoa mais capacitada tanto a realizar tarefas, como a socializar com os meus colegas de modo a sermos mais produtivos."* — [Rafael Magalhães](https://github.com/RafaelMagalhaes22407372)
+
+> *"Essa cadeira foi como aprender a voar enquanto se está no ar haha. Fomos apresentados a conceitos e práticas do ecossistema do desenvolvimento de software que para muitos eram novos durante a resolução de problemas, e penso que isso foi muito motivador para aprender e encarar os desafios."* — [Guilherme Albuquerque](https://github.com/gui-alb)
 
 ## Sobre a disciplina
 
