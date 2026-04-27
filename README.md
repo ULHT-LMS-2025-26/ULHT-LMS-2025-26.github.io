@@ -5,7 +5,7 @@
 Uma disciplina diferente. Sem slides. Sem aulas teóricas. Sem exames.
 Só código real, problemas reais, e projetos open-source reais.
 
-Durante um semestre, 16 estudantes da [Universidade Lusófona](https://www.ulusofona.pt) mergulharam no código de
+Durante 9 semanas, 16 estudantes da [Universidade Lusófona](https://www.ulusofona.pt) mergulharam no código de
 projetos open-source reais — identificaram bugs, abriram issues, submeteram pull requests, e viram o seu trabalho aceite
 por maintainers de todo o mundo.
 
@@ -48,11 +48,11 @@ Os alunos que tornaram isto possível:
 
 ## Alguns números
 
-- **[100]** issues analisados
-- **[32]** pull requests submetidos
-- **[19]** pull requests aceites
-- **[35]** projetos open-source diferentes
-- **[120]** worklogs escritos
+- **35** projetos open-source investigados
+- **100** issues analisados
+- **32** pull requests submetidos
+- **19** pull requests aceites
+- **120** worklogs escritos
 - **16** estudantes
 
 ## O que disseram os alunos
