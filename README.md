@@ -50,7 +50,7 @@ Os alunos que tornaram isto possível:
 
 ## O que disseram os alunos
 
-> > *"Nunca pensei que numa cadeira universitária ia ter conversas com maintainers de projetos usados por milhões de pessoas. É diferente de tudo o que aprendi até hoje, não há slides que ensinem isto."* — [@miguel-baptista07](https://github.com/miguel-baptista07)
+> *"Nunca pensei que numa cadeira universitária ia ter conversas com maintainers de projetos usados por milhões de pessoas. É diferente de tudo o que aprendi até hoje, não há slides que ensinem isto."* — [@miguel-baptista07](https://github.com/miguel-baptista07)
 
 > *"[Testemunho de um aluno]"* — @username
 
