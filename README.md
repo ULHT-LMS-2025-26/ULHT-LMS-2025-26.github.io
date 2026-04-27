@@ -21,12 +21,13 @@ Os alunos desta edição contribuíram para os seguintes projetos open-source:
 | drop-project | [link](https://github.com/drop-project-edu/drop-project)      | 3         |
 | github-copilot-api-vscode | [link](https://github.com/suhaibbinyounis/github-copilot-api-vscode)      | 1         |
 | osqa | [link](https://github.com/samuelowino/osqa)      | 1         |
+| wger | [link](https://github.com/wger-project/flutter)      | 1         |
 
 ## Os Exploradores
 
 Os alunos que tornaram isto possível:
 
-[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira](https://github.com/a22405291LourencoMadeira) | [Diogo Oliveira](https://github.com/0G01D-A)
+[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira](https://github.com/a22405291LourencoMadeira) | [Diogo Oliveira](https://github.com/0G01D-A) | [Nsimba Tamaku](https://github.com/efrahim20319)
 
 (incluir aqui foto da turma)
 
@@ -46,7 +47,7 @@ Os alunos que tornaram isto possível:
 - **[16]** pull requests submetidos
 - **[12]** pull requests aceites
 - **[12]** projetos open-source diferentes
-- **[49]** worklogs escritos
+- **[58]** worklogs escritos
 - **16** estudantes
 
 ## O que disseram os alunos
@@ -60,6 +61,8 @@ Os alunos que tornaram isto possível:
 >"Noutras cadeiras aprendo a escrever código que 'funciona'. Aqui aprendi a escrever código que 'dura' — com testes, validação defensiva, e preocupação com quem vai manter isto daqui a 3 anos. É uma mudança de mindset, não só de skill." — [@a22405291LourencoMadeira](https://github.com/a22405291LourencoMadeira)
 
 >  *"Uma disciplina fora do padrão, mas diria que o futuro das disciplinas deviam-se guiar por ela. Mais prática, menos teórica, mais divertida. Acho que foi a disciplina que mais me esforcei e que adquiri e consolei os conhecimentos. Apesar de ser muito trabalhosa, valeu cada esforço que fiz. E como contrapartida consegues desenvolver as tuas skills sociais e de escrita, o que é muito importante nos dias de hoje "* — [Diogo Oliveira](https://github.com/0G01D-A)
+
+> *"No início achei que esta cadeira não fazia sentido — 'para que precisamos de aprender manutenção de código? Para isso serve LP2.' Mas não é só sobre isso: é sobre aprender a colaborar num ambiente de trabalho real, saber pedir ajuda e saber ser ajudado. Melhorei bastante a minha comunicação e, no final, estou convicto de que esta cadeira é essencial para qualquer programador."* — [Nsimba Tamaku](https://github.com/efrahim20319)
 
 ## Sobre a disciplina
 
