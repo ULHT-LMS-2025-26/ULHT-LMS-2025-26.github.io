@@ -13,20 +13,20 @@ por maintainers de todo o mundo.
 
 Os alunos desta edição contribuíram para os seguintes projetos open-source:
 
-| Projeto           | Repositório | PRs aceites |
-|-------------------|-------------|-------------|
-|       Askimo      | [link](https://github.com/haiphucnguyen/askimo)      | 4         |
-| OWASP ZAP | [link](https://github.com/zaproxy/zaproxy)      | 1         |
-| rustfs | [link](https://github.com/rustfs/rustfs)      | 1         |
-| drop-project | [link](https://github.com/drop-project-edu/drop-project)      | 5        |
-| github-copilot-api-vscode | [link](https://github.com/suhaibbinyounis/github-copilot-api-vscode)      | 1         |
-| osqa | [link](https://github.com/samuelowino/osqa)      | 1         |
-| wger | [link](https://github.com/wger-project/flutter)      | 1         |
-| Dataframe | [link](https://github.com/Kotlin/dataframe)      | 1         |
-| luanti | [link](https://github.com/luanti-org/luanti) | 1 |
-| pik | [link](https://github.com/jacek-kurlit/pik) | 1 |
-| sodium | [link](https://github.com/CaffeineMC/sodium) | 1 |
-| damage-calc | [link](https://github.com/smogon/damage-calc) | 1 |
+| Projeto                   | Repositório                                                          | Tecnologia | PRs aceites |
+|---------------------------|----------------------------------------------------------------------|------------|-------------|
+| Askimo                    | [link](https://github.com/haiphucnguyen/askimo)                      | Kotlin     | 4           |
+| OWASP ZAP                 | [link](https://github.com/zaproxy/zaproxy)                           | Java       | 1           |
+| rustfs                    | [link](https://github.com/rustfs/rustfs)                             | Rust       | 1           |
+| github-copilot-api-vscode | [link](https://github.com/suhaibbinyounis/github-copilot-api-vscode) | TypeScript | 1           |
+| osqa                      | [link](https://github.com/samuelowino/osqa)                          | Java       | 1           |
+| wger                      | [link](https://github.com/wger-project/flutter)                      | Dart       | 1           |
+| Dataframe                 | [link](https://github.com/Kotlin/dataframe)                          | Kotlin     | 1           |
+| luanti                    | [link](https://github.com/luanti-org/luanti)                         | C++        | 1           |
+| pik                       | [link](https://github.com/jacek-kurlit/pik)                          | Rust       | 1           |
+| sodium                    | [link](https://github.com/CaffeineMC/sodium)                         | Java       | 1           |
+| damage-calc               | [link](https://github.com/smogon/damage-calc)                        | TypeScript | 1           |
+| drop-project              | [link](https://github.com/drop-project-edu/drop-project)             | Kotlin     | 5           |
 
 ## Os Exploradores
 
@@ -57,41 +57,82 @@ Os alunos que tornaram isto possível:
 
 ## O que disseram os alunos
 
-> *"Nunca pensei que numa cadeira universitária ia ter conversas com maintainers de projetos usados por milhões de pessoas. É diferente de tudo o que aprendi até hoje, não há slides que ensinem isto."* — [@miguel-baptista07](https://github.com/miguel-baptista07)
+> *"Nunca pensei que numa cadeira universitária ia ter conversas com maintainers de projetos usados por milhões de
+pessoas. É diferente de tudo o que aprendi até hoje, não há slides que ensinem
+isto."* — [@miguel-baptista07](https://github.com/miguel-baptista07)
 
-> *"Esta disciplina teve um impacto enorme na minha aprendizagem. O facto de não ser ensino tradicional, mas sim um trabalho hands-on em projetos open source reais, cativou-me imenso. Fez com que não só tivesse cada vez mais interesse em contribuir em mais projetos, como também vontade de estar presente numa aula de 5h30 todas as semanas."* — Filipe Monteiro
+> *"Esta disciplina teve um impacto enorme na minha aprendizagem. O facto de não ser ensino tradicional, mas sim um
+trabalho hands-on em projetos open source reais, cativou-me imenso. Fez com que não só tivesse cada vez mais interesse
+em contribuir em mais projetos, como também vontade de estar presente numa aula de 5h30 todas as semanas."* — Filipe
+> Monteiro
 
-> *"Foi uma experiência diferente, que me permitiu aprender imenso, com liberdade para desenvolver projetos open source reais. Além disso, foi uma ótima oportunidade para conhecer melhor os colegas e o professor. Apesar dos desafios e dificuldades, cada momento foi muito gratificante e tornou o aprendizado ainda mais enriquecedor."* — @AKADaniel-hub
+> *"Foi uma experiência diferente, que me permitiu aprender imenso, com liberdade para desenvolver projetos open source
+reais. Além disso, foi uma ótima oportunidade para conhecer melhor os colegas e o professor. Apesar dos desafios e
+dificuldades, cada momento foi muito gratificante e tornou o aprendizado ainda mais enriquecedor."* — @AKADaniel-hub
 
->"Noutras cadeiras aprendo a escrever código que 'funciona'. Aqui aprendi a escrever código que 'dura' — com testes, validação defensiva, e preocupação com quem vai manter isto daqui a 3 anos. É uma mudança de mindset, não só de skill." — [@a22405291LourencoMadeira](https://github.com/a22405291LourencoMadeira)
+> "Noutras cadeiras aprendo a escrever código que 'funciona'. Aqui aprendi a escrever código que 'dura' — com testes,
+> validação defensiva, e preocupação com quem vai manter isto daqui a 3 anos. É uma mudança de mindset, não só de
+> skill." — [@a22405291LourencoMadeira](https://github.com/a22405291LourencoMadeira)
 
->  *"Uma disciplina fora do padrão, mas diria que o futuro das disciplinas deviam-se guiar por ela. Mais prática, menos teórica, mais divertida. Acho que foi a disciplina que mais me esforcei e que adquiri e consolei os conhecimentos. Apesar de ser muito trabalhosa, valeu cada esforço que fiz. E como contrapartida consegues desenvolver as tuas skills sociais e de escrita, o que é muito importante nos dias de hoje "* — [Diogo Oliveira](https://github.com/0G01D-A)
+> *"Uma disciplina fora do padrão, mas diria que o futuro das disciplinas deviam-se guiar por ela. Mais prática, menos
+teórica, mais divertida. Acho que foi a disciplina que mais me esforcei e que adquiri e consolei os conhecimentos.
+Apesar de ser muito trabalhosa, valeu cada esforço que fiz. E como contrapartida consegues desenvolver as tuas skills
+sociais e de escrita, o que é muito importante nos dias de hoje "* — [Diogo Oliveira](https://github.com/0G01D-A)
 
-> *"No início achei que esta cadeira não fazia sentido — 'para que precisamos de aprender manutenção de código? Para isso serve LP2.' Mas não é só sobre isso: é sobre aprender a colaborar num ambiente de trabalho real, saber pedir ajuda e saber ser ajudado. Melhorei bastante a minha comunicação e, no final, estou convicto de que esta cadeira é essencial para qualquer programador."* — [Nsimba Tamaku](https://github.com/efrahim20319)
+> *"No início achei que esta cadeira não fazia sentido — 'para que precisamos de aprender manutenção de código? Para
+isso serve LP2.' Mas não é só sobre isso: é sobre aprender a colaborar num ambiente de trabalho real, saber pedir ajuda
+e saber ser ajudado. Melhorei bastante a minha comunicação e, no final, estou convicto de que esta cadeira é essencial
+para qualquer programador."* — [Nsimba Tamaku](https://github.com/efrahim20319)
 
-> *"Esta disciplina permitiu ter uma perspetiva mais abrangente do funcionamento e método de trabalho a nível empresarial no ramo da programação: prazos apertados, muitos erros, mais erros e a necessidade de implorar por ajuda aos colegas, achando que os erros dos mesmos são mais fáceis de resolver (e eles pensam o mesmo dos meus). Foi esta a dinâmica da disciplina que obrigou a uma grande adaptação e a um maior desenvolvimento da comunicação e do trabalho de equipa."* - [Rodrigo Filipe](https://github.com/rodrigo-filipe)
+> *"Esta disciplina permitiu ter uma perspetiva mais abrangente do funcionamento e método de trabalho a nível
+empresarial no ramo da programação: prazos apertados, muitos erros, mais erros e a necessidade de implorar por ajuda aos
+colegas, achando que os erros dos mesmos são mais fáceis de resolver (e eles pensam o mesmo dos meus). Foi esta a
+dinâmica da disciplina que obrigou a uma grande adaptação e a um maior desenvolvimento da comunicação e do trabalho de
+equipa."* - [Rodrigo Filipe](https://github.com/rodrigo-filipe)
 
-> *"No início achei a cadeira diferente e senti algum receio, principalmente por ser um formato a que não estava habituada. No entanto, à medida que fui acompanhando as aulas, consegui adaptar-me e comecei a gostar cada vez mais da experiência. Ao longo do tempo, percebi que aprendi bastante e senti claramente uma evolução no meu desenvolvimento, tanto a nível académico como pessoal."* — [Nidhi Mogatlal](https://github.com/Nidhi-M21)
+> *"No início achei a cadeira diferente e senti algum receio, principalmente por ser um formato a que não estava
+habituada. No entanto, à medida que fui acompanhando as aulas, consegui adaptar-me e comecei a gostar cada vez mais da
+experiência. Ao longo do tempo, percebi que aprendi bastante e senti claramente uma evolução no meu desenvolvimento,
+tanto a nível académico como pessoal."* — [Nidhi Mogatlal](https://github.com/Nidhi-M21)
 
-> *"Podemos dizer que esta cadeira está fora da caixa, tanto pelo formato, completamente diferente do que estamos habituados, como pelo trabalho que realizamos. Acho que é uma daquelas cadeiras que, mesmo depois de terminarmos o curso, vamos conseguir lembrar-nos de muitas coisas que ela nos proporcionou."* — [Diogo Alves](https://github.com/DiogoAlves06)
+> *"Podemos dizer que esta cadeira está fora da caixa, tanto pelo formato, completamente diferente do que estamos
+habituados, como pelo trabalho que realizamos. Acho que é uma daquelas cadeiras que, mesmo depois de terminarmos o
+curso, vamos conseguir lembrar-nos de muitas coisas que ela nos
+proporcionou."* — [Diogo Alves](https://github.com/DiogoAlves06)
 
-> *"Tive medo de embarcar nesta aventura, mas em vão, pois aquilo que aprendi no âmbito desta cadeira foi extremamente valioso no que toca ao meu desenvolvimento pessoal e social, tornando-me assim, acredito eu, numa pessoa mais capacitada tanto a realizar tarefas, como a socializar com os meus colegas de modo a sermos mais produtivos."* — [Rafael Magalhães](https://github.com/RafaelMagalhaes22407372)
+> *"Tive medo de embarcar nesta aventura, mas em vão, pois aquilo que aprendi no âmbito desta cadeira foi extremamente
+valioso no que toca ao meu desenvolvimento pessoal e social, tornando-me assim, acredito eu, numa pessoa mais capacitada
+tanto a realizar tarefas, como a socializar com os meus colegas de modo a sermos mais
+produtivos."* — [Rafael Magalhães](https://github.com/RafaelMagalhaes22407372)
 
-> *"Essa cadeira foi como aprender a voar enquanto se está no ar haha. Fomos apresentados a conceitos e práticas do ecossistema do desenvolvimento de software que para muitos eram novos durante a resolução de problemas, e penso que isso foi muito motivador para aprender e encarar os desafios."* — [Guilherme Albuquerque](https://github.com/gui-alb)
+> *"Essa cadeira foi como aprender a voar enquanto se está no ar haha. Fomos apresentados a conceitos e práticas do
+ecossistema do desenvolvimento de software que para muitos eram novos durante a resolução de problemas, e penso que isso
+foi muito motivador para aprender e encarar os desafios."* — [Guilherme Albuquerque](https://github.com/gui-alb)
 
-> *"Quando comecei esta disciplina estava muito nervoso e completamente perdido, porém ao longo das aulas fui habituando-me ao ritmo e aprendendo cada vez mais. Sinto que aprendi muito mais com esta disciplina do que com qualquer outra disciplina do curso."* - [José Cardoso](https://github.com/jose-cardoso-a22506616)
+> *"Quando comecei esta disciplina estava muito nervoso e completamente perdido, porém ao longo das aulas fui
+habituando-me ao ritmo e aprendendo cada vez mais. Sinto que aprendi muito mais com esta disciplina do que com qualquer
+outra disciplina do curso."* - [José Cardoso](https://github.com/jose-cardoso-a22506616)
 
-> *" Esta disciplina permitiu contribuir para projetos open source e foi a experiência mais próxima que tive de trabalho real em engenharia de software. Abrir um PR, receber feedback de um maintainer, corrigir e voltar a submeter — é um ciclo que não se aprende em nenhum livro."* - [Gonçalo Gonçalves](https://github.com/Gasg10)
+> *" Esta disciplina permitiu contribuir para projetos open source e foi a experiência mais próxima que tive de trabalho
+real em engenharia de software. Abrir um PR, receber feedback de um maintainer, corrigir e voltar a submeter — é um
+ciclo que não se aprende em nenhum livro."* - [Gonçalo Gonçalves](https://github.com/Gasg10)
 
-> *"No início senti-me completamente fora da minha zona de conforto, código que não conhecia, projetos grandes e sem instruções passo a passo. Mas foi precisamente isso que fez a diferença. Aprendi a investigar, a errar sem receio. No final, já não era apenas sobre programar, mas sim sobre pensar como um verdadeiro developer."* - [Gonçalo Mendes](https://github.com/goncalo-mendes-a22405389)
+> *"No início senti-me completamente fora da minha zona de conforto, código que não conhecia, projetos grandes e sem
+instruções passo a passo. Mas foi precisamente isso que fez a diferença. Aprendi a investigar, a errar sem receio. No
+final, já não era apenas sobre programar, mas sim sobre pensar como um verdadeiro
+developer."* - [Gonçalo Mendes](https://github.com/goncalo-mendes-a22405389)
 
-> *"O método único de ensino desta cadeira, que puxava pelo trabalho de equipa e pela autonomia e interação entre todos, tornou-me melhor programador e mostrou-me que todos conseguimos alcançar os nossos objetivos e fazer a diferença. Aprecio a troca de testes e exames por projetos open source e worklogs que realmente conseguem demonstrar o nosso esforço e conhecimento."* - [Hugo Pereira](https://github.com/a22303324HugoPereira)
+> *"O método único de ensino desta cadeira, que puxava pelo trabalho de equipa e pela autonomia e interação entre todos,
+tornou-me melhor programador e mostrou-me que todos conseguimos alcançar os nossos objetivos e fazer a diferença.
+Aprecio a troca de testes e exames por projetos open source e worklogs que realmente conseguem demonstrar o nosso
+esforço e conhecimento."* - [Hugo Pereira](https://github.com/a22303324HugoPereira)
 
 ## Sobre a disciplina
 
 **Laboratório de Manutenção de Software** é uma disciplina
 da [licenciatura em Engenharia Informática](https://informatica.ulusofona.pt/ensino/licenciaturas/engenharia-informatica/)
-integrada no [DEISI](https://informatica.ulusofona.pt/)/[Universidade Lusófona](https://www.ulusofona.pt), idealizada e lecionada
+integrada no [DEISI](https://informatica.ulusofona.pt/)/[Universidade Lusófona](https://www.ulusofona.pt), idealizada e
+lecionada
 por [Pedro Alves](https://github.com/p-alves).
 
 ---
