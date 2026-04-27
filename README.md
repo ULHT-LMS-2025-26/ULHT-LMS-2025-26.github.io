@@ -44,10 +44,10 @@ Os alunos que tornaram isto possível:
 ## Alguns números
 
 - **[63]** issues analisados
-- **[17]** pull requests submetidos
+- **[21]** pull requests submetidos
 - **[13]** pull requests aceites
 - **[14]** projetos open-source diferentes
-- **[66]** worklogs escritos
+- **[75]** worklogs escritos
 - **16** estudantes
 
 ## O que disseram os alunos
