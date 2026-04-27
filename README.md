@@ -15,8 +15,8 @@ Os alunos desta edição contribuíram para os seguintes projetos open-source:
 
 | Projeto           | Repositório | PRs aceites |
 |-------------------|-------------|-------------|
-| [NOME DO PROJETO] | [link]      | [N]         |
-| [NOME DO PROJETO] | [link]      | [N]         |
+|       Askimo      | [link](https://github.com/haiphucnguyen/askimo)      | 4         |
+| OWASP ZAP | [link](https://github.com/zaproxy/zaproxy)      | 1         |
 | [NOME DO PROJETO] | [link]      | [N]         |
 | [NOME DO PROJETO] | [link]      | [N]         |
 | [NOME DO PROJETO] | [link]      | [N]         |
@@ -25,7 +25,7 @@ Os alunos desta edição contribuíram para os seguintes projetos open-source:
 
 Os alunos que tornaram isto possível:
 
-[@username](https://github.com/username) | [@username](https://github.com/username) | [@username](https://github.com/username) | [@username](https://github.com/username) | ...
+[Miguel Baptista](https://github.com/miguel-baptista07) | [@username](https://github.com/username) | [@username](https://github.com/username) | [@username](https://github.com/username) | ...
 
 (incluir aqui foto da turma)
 
@@ -41,16 +41,16 @@ Os alunos que tornaram isto possível:
 
 ## Alguns números
 
-- **[N]** issues analisados
-- **[N]** pull requests submetidos
-- **[N]** pull requests aceites
-- **[N]** projetos open-source diferentes
-- **[N]** worklogs escritos
+- **[15]** issues analisados
+- **[7]** pull requests submetidos
+- **[5]** pull requests aceites
+- **[4]** projetos open-source diferentes
+- **[9]** worklogs escritos
 - **16** estudantes
 
 ## O que disseram os alunos
 
-> *"[Testemunho de um aluno]"* — @username
+> > *"Nunca pensei que numa cadeira universitária ia ter conversas com maintainers de projetos usados por milhões de pessoas. É diferente de tudo o que aprendi até hoje, não há slides que ensinem isto."* — [@miguel-baptista07](https://github.com/miguel-baptista07)
 
 > *"[Testemunho de um aluno]"* — @username
 
