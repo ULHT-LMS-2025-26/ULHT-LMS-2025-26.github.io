@@ -17,15 +17,15 @@ Os alunos desta edição contribuíram para os seguintes projetos open-source:
 |-------------------|-------------|-------------|
 |       Askimo      | [link](https://github.com/haiphucnguyen/askimo)      | 4         |
 | OWASP ZAP | [link](https://github.com/zaproxy/zaproxy)      | 1         |
-| [NOME DO PROJETO] | [link]      | [N]         |
-| [NOME DO PROJETO] | [link]      | [N]         |
+| rustfs | [link](https://github.com/rustfs/rustfs)      | [1]         |
+| drop-project | [link](https://github.com/drop-project-edu/drop-project)      | [1]         |
 | [NOME DO PROJETO] | [link]      | [N]         |
 
 ## Os Exploradores
 
 Os alunos que tornaram isto possível:
 
-[Miguel Baptista](https://github.com/miguel-baptista07) | [@username](https://github.com/username) | [@username](https://github.com/username) | [@username](https://github.com/username) | ...
+[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [@username](https://github.com/username) | [@username](https://github.com/username) | ...
 
 (incluir aqui foto da turma)
 
@@ -41,18 +41,18 @@ Os alunos que tornaram isto possível:
 
 ## Alguns números
 
-- **[15]** issues analisados
-- **[7]** pull requests submetidos
-- **[5]** pull requests aceites
-- **[4]** projetos open-source diferentes
-- **[9]** worklogs escritos
+- **[25]** issues analisados
+- **[10]** pull requests submetidos
+- **[8]** pull requests aceites
+- **[6]** projetos open-source diferentes
+- **[18]** worklogs escritos
 - **16** estudantes
 
 ## O que disseram os alunos
 
 > *"Nunca pensei que numa cadeira universitária ia ter conversas com maintainers de projetos usados por milhões de pessoas. É diferente de tudo o que aprendi até hoje, não há slides que ensinem isto."* — [@miguel-baptista07](https://github.com/miguel-baptista07)
 
-> *"[Testemunho de um aluno]"* — @username
+> *"[Esta disciplina teve um impacto enorme na minha aprendizagem. O facto de não ser ensino tradicional, mas sim um trabalho hands-on em projetos open source reais, cativou-me imenso. Fez com que não só tivesse cada vez mais interesse em contribuir em mais projetos, como também vontade de estar presente numa aula de 5h30 todas as semanas.]"* — Filipe Monteiro
 
 > *"[Testemunho de um aluno]"* — @username
 
