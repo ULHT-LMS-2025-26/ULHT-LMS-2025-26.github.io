@@ -34,7 +34,7 @@ Os alunos que tornaram isto possível:
 
 [Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira](https://github.com/a22405291LourencoMadeira) | [Diogo Oliveira](https://github.com/0G01D-A) | [Nsimba Tamaku](https://github.com/efrahim20319) | [Rodrigo Filipe](https://github.com/rodrigo-filipe) | [Nidhi Mogatlal](https://github.com/Nidhi-M21) | [Rafael Magalhães](https://github.com/RafaelMagalhaes22407372) | [Diogo Alves](https://github.com/DiogoAlves06) | [Guilherme Albuquerque](https://github.com/gui-alb) | [Gonçalo Gonçalves](https://github.com/Gasg10) | [Marco Fernandes](https://github.com/marco-fernandes2006-nofc) | [Hugo Pereira](https://github.com/a22303324HugoPereira)
 
-<img width="5712" height="4284" alt="IMG_TURMA" src="https://github.com/user-attachments/assets/279f0c33-26fd-4265-bd45-a7184f0d6785" />
+<img width="100%" alt="IMG_TURMA" src="https://github.com/user-attachments/assets/279f0c33-26fd-4265-bd45-a7184f0d6785" />
 
 ## Como funcionou a disciplina
 
