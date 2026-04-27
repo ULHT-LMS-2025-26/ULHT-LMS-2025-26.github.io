@@ -59,7 +59,7 @@ Os alunos que tornaram isto possível:
 
 >"Noutras cadeiras aprendo a escrever código que 'funciona'. Aqui aprendi a escrever código que 'dura' — com testes, validação defensiva, e preocupação com quem vai manter isto daqui a 3 anos. É uma mudança de mindset, não só de skill." — [@a22405291LourencoMadeira](https://github.com/a22405291LourencoMadeira)
 
-> > *"Uma disciplina fora do padrão, mas diria que o futuro das disciplinas deviam-se guiar por ela. Mais prática, menos teórica, mais divertida. Acho que foi a disciplina que mais me esforcei e que adquiri e consolei os conhecimentos. Apesar de ser muito trabalhosa, valeu cada esforço que fiz. E como contrapartida consegues desenvolver as tuas skills sociais e de escrita, o que é muito importante nos dias de hoje "* — [Diogo Oliveira](https://github.com/0G01D-A)
+>  *"Uma disciplina fora do padrão, mas diria que o futuro das disciplinas deviam-se guiar por ela. Mais prática, menos teórica, mais divertida. Acho que foi a disciplina que mais me esforcei e que adquiri e consolei os conhecimentos. Apesar de ser muito trabalhosa, valeu cada esforço que fiz. E como contrapartida consegues desenvolver as tuas skills sociais e de escrita, o que é muito importante nos dias de hoje "* — [Diogo Oliveira](https://github.com/0G01D-A)
 
 ## Sobre a disciplina
 
