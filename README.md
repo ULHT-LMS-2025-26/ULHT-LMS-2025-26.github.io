@@ -70,6 +70,8 @@ Os alunos que tornaram isto possível:
 
 > *"Podemos dizer que esta cadeira está fora da caixa, tanto pelo formato, completamente diferente do que estamos habituados, como pelo trabalho que realizamos. Acho que é uma daquelas cadeiras que, mesmo depois de terminarmos o curso, vamos conseguir lembrar-nos de muitas coisas que ela nos proporcionou. "*- [Diogo Alves](https://github.com/DiogoAlves06)
 
+> *"Tive medo de embarcar nesta aventura, mas em vão, pois aquilo que aprendi no âmbito desta cadeira foi extremamente valioso no que toca ao meu desenvolvimento pessoal e social, tornando-me assim, acredito eu, numa pessoa mais capacitada tanto a realizar tarefas, como a socializar com os meus colegas de modo a sermos mais produtivos."*-  [Rafael Magalhães](https://github.com/RafaelMagalhaes22407372)
+
 
 ## Sobre a disciplina
 
