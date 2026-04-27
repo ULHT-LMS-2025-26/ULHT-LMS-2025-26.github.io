@@ -26,7 +26,7 @@ Os alunos desta edição contribuíram para os seguintes projetos open-source:
 
 Os alunos que tornaram isto possível:
 
-[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira] | [Diogo Oliveira](https://github.com/0G01D-A)(https://github.com/a22405291LourencoMadeira)
+[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira] (https://github.com/a22405291LourencoMadeira) | [Diogo Oliveira](https://github.com/0G01D-A)
 
 (incluir aqui foto da turma)
 
