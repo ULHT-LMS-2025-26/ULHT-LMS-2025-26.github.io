@@ -18,21 +18,21 @@ Os alunos desta edição contribuíram para os seguintes projetos open-source:
 |       Askimo      | [link](https://github.com/haiphucnguyen/askimo)      | 4         |
 | OWASP ZAP | [link](https://github.com/zaproxy/zaproxy)      | 1         |
 | rustfs | [link](https://github.com/rustfs/rustfs)      | 1         |
-| drop-project | [link](https://github.com/drop-project-edu/drop-project)      | 4        |
+| drop-project | [link](https://github.com/drop-project-edu/drop-project)      | 5        |
 | github-copilot-api-vscode | [link](https://github.com/suhaibbinyounis/github-copilot-api-vscode)      | 1         |
 | osqa | [link](https://github.com/samuelowino/osqa)      | 1         |
 | wger | [link](https://github.com/wger-project/flutter)      | 1         |
 | Dataframe | [link](https://github.com/Kotlin/dataframe)      | 1         |
 | luanti | [link](https://github.com/luanti-org/luanti) | 1 |
 | pik | [link](https://github.com/jacek-kurlit/pik) | 1 |
-| drop-project | [link](https://github.com/drop-project-edu) | 1 |
 | sodium | [link](https://github.com/CaffeineMC/sodium) | 1 |
+| damage-calc | [link](https://github.com/smogon/damage-calc) | 1 |
 
 ## Os Exploradores
 
 Os alunos que tornaram isto possível:
 
-[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira](https://github.com/a22405291LourencoMadeira) | [Diogo Oliveira](https://github.com/0G01D-A) | [Nsimba Tamaku](https://github.com/efrahim20319) | [Rodrigo Filipe](https://github.com/rodrigo-filipe) | [Nidhi Mogatlal](https://github.com/Nidhi-M21) | [Rafael Magalhães](https://github.com/RafaelMagalhaes22407372) | [Diogo Alves](https://github.com/DiogoAlves06) | [Guilherme Albuquerque](https://github.com/gui-alb) | [Gonçalo Gonçalves](https://github.com/Gasg10) | [Marco Fernandes](https://github.com/marco-fernandes2006-nofc)
+[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira](https://github.com/a22405291LourencoMadeira) | [Diogo Oliveira](https://github.com/0G01D-A) | [Nsimba Tamaku](https://github.com/efrahim20319) | [Rodrigo Filipe](https://github.com/rodrigo-filipe) | [Nidhi Mogatlal](https://github.com/Nidhi-M21) | [Rafael Magalhães](https://github.com/RafaelMagalhaes22407372) | [Diogo Alves](https://github.com/DiogoAlves06) | [Guilherme Albuquerque](https://github.com/gui-alb) | [Gonçalo Gonçalves](https://github.com/Gasg10) | [Marco Fernandes](https://github.com/marco-fernandes2006-nofc) | [Hugo Pereira](https://github.com/a22303324HugoPereira)
 
 <img width="5712" height="4284" alt="IMG_TURMA" src="https://github.com/user-attachments/assets/279f0c33-26fd-4265-bd45-a7184f0d6785" />
 
@@ -48,11 +48,11 @@ Os alunos que tornaram isto possível:
 
 ## Alguns números
 
-- **[97]** issues analisados
-- **[31]** pull requests submetidos
-- **[18]** pull requests aceites
-- **[34]** projetos open-source diferentes
-- **[111]** worklogs escritos
+- **[100]** issues analisados
+- **[32]** pull requests submetidos
+- **[19]** pull requests aceites
+- **[35]** projetos open-source diferentes
+- **[120]** worklogs escritos
 - **16** estudantes
 
 ## O que disseram os alunos
@@ -84,6 +84,8 @@ Os alunos que tornaram isto possível:
 > *" Esta disciplina permitiu contribuir para projetos open source e foi a experiência mais próxima que tive de trabalho real em engenharia de software. Abrir um PR, receber feedback de um maintainer, corrigir e voltar a submeter — é um ciclo que não se aprende em nenhum livro."* - [Gonçalo Gonçalves](https://github.com/Gasg10)
 
 > *"No início senti-me completamente fora da minha zona de conforto, código que não conhecia, projetos grandes e sem instruções passo a passo. Mas foi precisamente isso que fez a diferença. Aprendi a investigar, a errar sem receio. No final, já não era apenas sobre programar, mas sim sobre pensar como um verdadeiro developer."* - [Gonçalo Mendes](https://github.com/goncalo-mendes-a22405389)
+
+> *"O método único de ensino desta cadeira, que puxava pelo trabalho de equipa e pela autonomia e interação entre todos, tornou-me melhor programador e mostrou-me que todos conseguimos alcançar os nossos objetivos e fazer a diferença. Aprecio a troca de testes e exames por projetos open source e worklogs que realmente conseguem demonstrar o nosso esforço e conhecimento."* - [Hugo Pereira](https://github.com/a22303324HugoPereira)
 
 ## Sobre a disciplina
 
