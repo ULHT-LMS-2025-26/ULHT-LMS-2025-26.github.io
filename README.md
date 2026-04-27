@@ -15,7 +15,7 @@ Os alunos desta edição contribuíram para os seguintes projetos open-source:
 
 | Projeto                   | Repositório                                                          | Tecnologia | PRs aceites |
 |---------------------------|----------------------------------------------------------------------|------------|-------------|
-| Askimo                    | [link](https://github.com/haiphucnguyen/askimo)                      | Kotlin     | 6           |
+| Askimo                    | [link](https://github.com/haiphucnguyen/askimo)                      | Kotlin     | 4           |
 | OWASP ZAP                 | [link](https://github.com/zaproxy/zaproxy)                           | Java       | 1           |
 | rustfs                    | [link](https://github.com/rustfs/rustfs)                             | Rust       | 1           |
 | github-copilot-api-vscode | [link](https://github.com/suhaibbinyounis/github-copilot-api-vscode) | TypeScript | 1           |
