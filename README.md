@@ -26,12 +26,13 @@ Os alunos desta edição contribuíram para os seguintes projetos open-source:
 | luanti | [link](https://github.com/luanti-org/luanti) | 1 |
 | pik | [link](https://github.com/jacek-kurlit/pik) | 1 |
 | drop-project | [link](https://github.com/drop-project-edu) | 1 |
+| sodium | [link](https://github.com/CaffeineMC/sodium) | 1 |
 
 ## Os Exploradores
 
 Os alunos que tornaram isto possível:
 
-[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira](https://github.com/a22405291LourencoMadeira) | [Diogo Oliveira](https://github.com/0G01D-A) | [Nsimba Tamaku](https://github.com/efrahim20319) | [Rodrigo Filipe](https://github.com/rodrigo-filipe) | [Nidhi Mogatlal](https://github.com/Nidhi-M21) | [Rafael Magalhães](https://github.com/RafaelMagalhaes22407372) | [Diogo Alves](https://github.com/DiogoAlves06) | [Guilherme Albuquerque](https://github.com/gui-alb) | [Gonçalo Gonçalves](https://github.com/Gasg10)
+[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira](https://github.com/a22405291LourencoMadeira) | [Diogo Oliveira](https://github.com/0G01D-A) | [Nsimba Tamaku](https://github.com/efrahim20319) | [Rodrigo Filipe](https://github.com/rodrigo-filipe) | [Nidhi Mogatlal](https://github.com/Nidhi-M21) | [Rafael Magalhães](https://github.com/RafaelMagalhaes22407372) | [Diogo Alves](https://github.com/DiogoAlves06) | [Guilherme Albuquerque](https://github.com/gui-alb) | [Gonçalo Gonçalves](https://github.com/Gasg10) | [Marco Fernandes](https://github.com/marco-fernandes2006-nofc)
 
 <img width="5712" height="4284" alt="IMG_TURMA" src="https://github.com/user-attachments/assets/279f0c33-26fd-4265-bd45-a7184f0d6785" />
 
@@ -47,11 +48,11 @@ Os alunos que tornaram isto possível:
 
 ## Alguns números
 
-- **[93]** issues analisados
-- **[30]** pull requests submetidos
-- **[17]** pull requests aceites
-- **[33]** projetos open-source diferentes
-- **[102]** worklogs escritos
+- **[97]** issues analisados
+- **[31]** pull requests submetidos
+- **[18]** pull requests aceites
+- **[34]** projetos open-source diferentes
+- **[111]** worklogs escritos
 - **16** estudantes
 
 ## O que disseram os alunos
