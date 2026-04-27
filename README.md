@@ -18,16 +18,18 @@ Os alunos desta edição contribuíram para os seguintes projetos open-source:
 |       Askimo      | [link](https://github.com/haiphucnguyen/askimo)      | 4         |
 | OWASP ZAP | [link](https://github.com/zaproxy/zaproxy)      | 1         |
 | rustfs | [link](https://github.com/rustfs/rustfs)      | 1         |
-| drop-project | [link](https://github.com/drop-project-edu/drop-project)      | 3         |
+| drop-project | [link](https://github.com/drop-project-edu/drop-project)      | 4        |
 | github-copilot-api-vscode | [link](https://github.com/suhaibbinyounis/github-copilot-api-vscode)      | 1         |
 | osqa | [link](https://github.com/samuelowino/osqa)      | 1         |
 | wger | [link](https://github.com/wger-project/flutter)      | 1         |
+| Dataframe | [link](https://github.com/Kotlin/dataframe)      | 1         |
+| luanti | [link](https://github.com/luanti-org/luanti) | 1 |
 
 ## Os Exploradores
 
 Os alunos que tornaram isto possível:
 
-[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira](https://github.com/a22405291LourencoMadeira) | [Diogo Oliveira](https://github.com/0G01D-A) | [Nsimba Tamaku](https://github.com/efrahim20319)
+[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira](https://github.com/a22405291LourencoMadeira) | [Diogo Oliveira](https://github.com/0G01D-A) | [Nsimba Tamaku](https://github.com/efrahim20319) | [Rodrigo Filipe](https://github.com/rodrigo-filipe) | [Nidhi Mogatlal](https://github.com/Nidhi-M21) | [Rafael Magalhães](https://github.com/RafaelMagalhaes22407372) | [Diogo Alves](https://github.com/DiogoAlves06)
 
 (incluir aqui foto da turma)
 
@@ -43,11 +45,11 @@ Os alunos que tornaram isto possível:
 
 ## Alguns números
 
-- **[48]** issues analisados
-- **[16]** pull requests submetidos
-- **[12]** pull requests aceites
-- **[12]** projetos open-source diferentes
-- **[58]** worklogs escritos
+- **[83]** issues analisados
+- **[23]** pull requests submetidos
+- **[16]** pull requests aceites
+- **[21]** projetos open-source diferentes
+- **[93]** worklogs escritos
 - **16** estudantes
 
 ## O que disseram os alunos
@@ -63,6 +65,14 @@ Os alunos que tornaram isto possível:
 >  *"Uma disciplina fora do padrão, mas diria que o futuro das disciplinas deviam-se guiar por ela. Mais prática, menos teórica, mais divertida. Acho que foi a disciplina que mais me esforcei e que adquiri e consolei os conhecimentos. Apesar de ser muito trabalhosa, valeu cada esforço que fiz. E como contrapartida consegues desenvolver as tuas skills sociais e de escrita, o que é muito importante nos dias de hoje "* — [Diogo Oliveira](https://github.com/0G01D-A)
 
 > *"No início achei que esta cadeira não fazia sentido — 'para que precisamos de aprender manutenção de código? Para isso serve LP2.' Mas não é só sobre isso: é sobre aprender a colaborar num ambiente de trabalho real, saber pedir ajuda e saber ser ajudado. Melhorei bastante a minha comunicação e, no final, estou convicto de que esta cadeira é essencial para qualquer programador."* — [Nsimba Tamaku](https://github.com/efrahim20319)
+
+> *"Esta disciplina permitiu ter uma perspetiva mais abrangente do funcionamento e método de trabalho a nível empresarial no ramo da programação: prazos apertados, muitos erros, mais erros e a necessidade de implorar por ajuda aos colegas, achando que os erros dos mesmos são mais fáceis de resolver (e eles pensam o mesmo dos meus). Foi esta a dinâmica da disciplina que obrigou a uma grande adaptação e a um maior desenvolvimento da comunicação e do trabalho de equipa."* - [Rodrigo Filipe](https://github.com/rodrigo-filipe)
+
+> *"No início achei a cadeira diferente e senti algum receio, principalmente por ser um formato a que não estava habituada. No entanto, à medida que fui acompanhando as aulas, consegui adaptar-me e comecei a gostar cada vez mais da experiência. Ao longo do tempo, percebi que aprendi bastante e senti claramente uma evolução no meu desenvolvimento, tanto a nível académico como pessoal."* — [Nidhi Mogatlal](https://github.com/Nidhi-M21)
+
+> *"Podemos dizer que esta cadeira está fora da caixa, tanto pelo formato, completamente diferente do que estamos habituados, como pelo trabalho que realizamos. Acho que é uma daquelas cadeiras que, mesmo depois de terminarmos o curso, vamos conseguir lembrar-nos de muitas coisas que ela nos proporcionou."* — [Diogo Alves](https://github.com/DiogoAlves06)
+
+> *"Tive medo de embarcar nesta aventura, mas em vão, pois aquilo que aprendi no âmbito desta cadeira foi extremamente valioso no que toca ao meu desenvolvimento pessoal e social, tornando-me assim, acredito eu, numa pessoa mais capacitada tanto a realizar tarefas, como a socializar com os meus colegas de modo a sermos mais produtivos."* — [Rafael Magalhães](https://github.com/RafaelMagalhaes22407372)
 
 ## Sobre a disciplina
 
