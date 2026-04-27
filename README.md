@@ -20,12 +20,13 @@ Os alunos desta edição contribuíram para os seguintes projetos open-source:
 | rustfs | [link](https://github.com/rustfs/rustfs)      | 1         |
 | drop-project | [link](https://github.com/drop-project-edu/drop-project)      | 3         |
 | github-copilot-api-vscode | [link](https://github.com/suhaibbinyounis/github-copilot-api-vscode)      | 1         |
+| osqa | [link](https://github.com/samuelowino/osqa)      | 1         |
 
 ## Os Exploradores
 
 Os alunos que tornaram isto possível:
 
-[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira](https://github.com/a22405291LourencoMadeira)
+[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [José Cardoso](https://github.com/jose-cardoso-a22506616) | [Lourenço Madeira] | [Diogo Oliveira](https://github.com/0G01D-A)(https://github.com/a22405291LourencoMadeira)
 
 (incluir aqui foto da turma)
 
@@ -41,11 +42,11 @@ Os alunos que tornaram isto possível:
 
 ## Alguns números
 
-- **[36]** issues analisados
-- **[14]** pull requests submetidos
-- **[11]** pull requests aceites
-- **[10]** projetos open-source diferentes
-- **[31]** worklogs escritos
+- **[46]** issues analisados
+- **[15]** pull requests submetidos
+- **[12]** pull requests aceites
+- **[11]** projetos open-source diferentes
+- **[40]** worklogs escritos
 - **16** estudantes
 
 ## O que disseram os alunos
@@ -58,6 +59,7 @@ Os alunos que tornaram isto possível:
 
 >"Noutras cadeiras aprendo a escrever código que 'funciona'. Aqui aprendi a escrever código que 'dura' — com testes, validação defensiva, e preocupação com quem vai manter isto daqui a 3 anos. É uma mudança de mindset, não só de skill." — [@a22405291LourencoMadeira](https://github.com/a22405291LourencoMadeira)
 
+> > *"Uma disciplina fora do padrão, mas diria que o futuro das disciplinas deviam-se guiar por ela. Mais prática, menos teórica, mais divertida. Acho que foi a disciplina que mais me esforcei e que adquiri e consolei os conhecimentos. Apesar de ser muito trabalhosa, valeu cada esforço que fiz. E como contrapartida consegues desenvolver as tuas skills sociais e de escrita, o que é muito importante nos dias de hoje "* — [Diogo Oliveira](https://github.com/0G01D-A)
 
 ## Sobre a disciplina
 
