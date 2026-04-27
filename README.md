@@ -42,11 +42,11 @@ Os alunos que tornaram isto possível:
 
 ## Alguns números
 
-- **[46]** issues analisados
-- **[15]** pull requests submetidos
+- **[48]** issues analisados
+- **[16]** pull requests submetidos
 - **[12]** pull requests aceites
-- **[11]** projetos open-source diferentes
-- **[40]** worklogs escritos
+- **[12]** projetos open-source diferentes
+- **[49]** worklogs escritos
 - **16** estudantes
 
 ## O que disseram os alunos
