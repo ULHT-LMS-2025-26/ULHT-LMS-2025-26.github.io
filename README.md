@@ -21,7 +21,7 @@ Os alunos desta edição contribuíram para os seguintes projetos open-source:
 | drop-project | [link](https://github.com/drop-project-edu/drop-project)      | 3         |
 | github-copilot-api-vscode | [link](https://github.com/suhaibbinyounis/github-copilot-api-vscode)      | 1         |
 | osqa | [link](https://github.com/samuelowino/osqa)      | 1         |
-| Fataframe | [link](https://github.com/Kotlin/dataframe)      | 1         |
+| Dataframe | [link](https://github.com/Kotlin/dataframe)      | 1         |
 
 ## Os Exploradores
 
