@@ -82,6 +82,9 @@ Os alunos que tornaram isto possível:
 > *"Quando comecei esta disciplina estava muito nervoso e completamente perdido, porém ao longo das aulas fui habituando-me ao ritmo e aprendendo cada vez mais. Sinto que aprendi muito mais com esta disciplina do que com qualquer outra disciplina do curso."* - [José Cardoso](https://github.com/jose-cardoso-a22506616)
 
 > *" Esta disciplina permitiu contribuir para projetos open source e foi a experiência mais próxima que tive de trabalho real em engenharia de software. Abrir um PR, receber feedback de um maintainer, corrigir e voltar a submeter — é um ciclo que não se aprende em nenhum livro."* - [Gonçalo Gonçalves](https://github.com/Gasg10)
+
+> *"No início senti-me completamente fora da minha zona de conforto, código que não conhecia, projetos grandes e sem instruções passo a passo. Mas foi precisamente isso que fez a diferença. Aprendi a investigar, a errar sem receio. No final, já não era apenas sobre programar, mas sim sobre pensar como um verdadeiro developer."* - [Gonçalo Mendes](https://github.com/goncalo-mendes-a22405389)
+
 ## Sobre a disciplina
 
 **Laboratório de Manutenção de Software** é uma disciplina
