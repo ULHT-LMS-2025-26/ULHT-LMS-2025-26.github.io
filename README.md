@@ -77,6 +77,8 @@ Os alunos que tornaram isto possível:
 
 > *"Essa cadeira foi como aprender a voar enquanto se está no ar haha. Fomos apresentados a conceitos e práticas do ecossistema do desenvolvimento de software que para muitos eram novos durante a resolução de problemas, e penso que isso foi muito motivador para aprender e encarar os desafios."* — [Guilherme Albuquerque](https://github.com/gui-alb)
 
+> *"Quando comecei esta disciplina estava muito nervoso e completamente perdido, porém ao longo das aulas fui habituando-me ao ritmo e aprendendo cada vez mais. Sinto que aprendi muito mais com esta disciplina do que com qualquer outra disciplina do curso."* - [José Cardoso](https://github.com/jose-cardoso-a22506616)
+
 ## Sobre a disciplina
 
 **Laboratório de Manutenção de Software** é uma disciplina
