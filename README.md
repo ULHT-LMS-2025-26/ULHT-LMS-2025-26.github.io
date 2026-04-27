@@ -17,15 +17,15 @@ Os alunos desta edição contribuíram para os seguintes projetos open-source:
 |-------------------|-------------|-------------|
 |       Askimo      | [link](https://github.com/haiphucnguyen/askimo)      | 4         |
 | OWASP ZAP | [link](https://github.com/zaproxy/zaproxy)      | 1         |
-| rustfs | [link](https://github.com/rustfs/rustfs)      | 1         |
-| drop-project | [link](https://github.com/drop-project-edu/drop-project)      | 1         |
+| rustfs | [link](https://github.com/rustfs/rustfs)      | [1]         |
+| drop-project | [link](https://github.com/drop-project-edu/drop-project)      | [2]         |
 | [NOME DO PROJETO] | [link]      | [N]         |
 
 ## Os Exploradores
 
 Os alunos que tornaram isto possível:
 
-[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [@username](https://github.com/username) | [@username](https://github.com/username) | ...
+[Miguel Baptista](https://github.com/miguel-baptista07) | [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro) | [AKADaniel-hub](https://github.com/AKADaniel-hub) | [@username](https://github.com/username) | ...
 
 (incluir aqui foto da turma)
 
@@ -41,20 +41,20 @@ Os alunos que tornaram isto possível:
 
 ## Alguns números
 
-- **[25]** issues analisados
-- **[10]** pull requests submetidos
-- **[8]** pull requests aceites
-- **[6]** projetos open-source diferentes
-- **[18]** worklogs escritos
+- **[33]** issues analisados
+- **[12]** pull requests submetidos
+- **[9]** pull requests aceites
+- **[7]** projetos open-source diferentes
+- **[27]** worklogs escritos
 - **16** estudantes
 
 ## O que disseram os alunos
 
 > *"Nunca pensei que numa cadeira universitária ia ter conversas com maintainers de projetos usados por milhões de pessoas. É diferente de tudo o que aprendi até hoje, não há slides que ensinem isto."* — [@miguel-baptista07](https://github.com/miguel-baptista07)
 
-> *"Esta disciplina teve um impacto enorme na minha aprendizagem. O facto de não ser ensino tradicional, mas sim um trabalho hands-on em projetos open source reais, cativou-me imenso. Fez com que não só tivesse cada vez mais interesse em contribuir em mais projetos, como também vontade de estar presente numa aula de 5h30 todas as semanas."* — [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro)
+> *"Esta disciplina teve um impacto enorme na minha aprendizagem. O facto de não ser ensino tradicional, mas sim um trabalho hands-on em projetos open source reais, cativou-me imenso. Fez com que não só tivesse cada vez mais interesse em contribuir em mais projetos, como também vontade de estar presente numa aula de 5h30 todas as semanas."* — Filipe Monteiro
 
-> *"[Testemunho de um aluno]"* — @username
+> *"Foi uma experiência diferente, que me permitiu aprender imenso, com liberdade para desenvolver projetos open source reais. Além disso, foi uma ótima oportunidade para conhecer melhor os colegas e o professor. Apesar dos desafios e dificuldades, cada momento foi muito gratificante e tornou o aprendizado ainda mais enriquecedor."* — @AKADaniel-hub
 
 ## Sobre a disciplina
 
