@@ -48,7 +48,7 @@ Os alunos que tornaram isto possível:
 - **[87]** issues analisados
 - **[25]** pull requests submetidos
 - **[16]** pull requests aceites
-- **[24]** projetos open-source diferentes
+- **[28]** projetos open-source diferentes
 - **[93]** worklogs escritos
 - **16** estudantes
 
