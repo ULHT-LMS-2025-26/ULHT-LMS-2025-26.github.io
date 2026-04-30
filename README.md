@@ -63,8 +63,7 @@ isto."* — [@miguel-baptista07](https://github.com/miguel-baptista07)
 
 > *"Esta disciplina teve um impacto enorme na minha aprendizagem. O facto de não ser ensino tradicional, mas sim um
 trabalho hands-on em projetos open source reais, cativou-me imenso. Fez com que não só tivesse cada vez mais interesse
-em contribuir em mais projetos, como também vontade de estar presente numa aula de 5h30 todas as semanas."* — Filipe
-> Monteiro
+em contribuir em mais projetos, como também vontade de estar presente numa aula de 5h30 todas as semanas."* — [Filipe Monteiro](https://github.com/a22407332FilipeMonteiro)
 
 > *"Foi uma experiência diferente, que me permitiu aprender imenso, com liberdade para desenvolver projetos open source
 reais. Além disso, foi uma ótima oportunidade para conhecer melhor os colegas e o professor. Apesar dos desafios e
