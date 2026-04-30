@@ -67,7 +67,7 @@ em contribuir em mais projetos, como também vontade de estar presente numa aula
 
 > *"Foi uma experiência diferente, que me permitiu aprender imenso, com liberdade para desenvolver projetos open source
 reais. Além disso, foi uma ótima oportunidade para conhecer melhor os colegas e o professor. Apesar dos desafios e
-dificuldades, cada momento foi muito gratificante e tornou o aprendizado ainda mais enriquecedor."* — @AKADaniel-hub
+dificuldades, cada momento foi muito gratificante e tornou o aprendizado ainda mais enriquecedor."* — [Daniel Carvalho](https://github.com/AKADaniel-hub)
 
 > "Noutras cadeiras aprendo a escrever código que 'funciona'. Aqui aprendi a escrever código que 'dura' — com testes,
 > validação defensiva, e preocupação com quem vai manter isto daqui a 3 anos. É uma mudança de mindset, não só de
